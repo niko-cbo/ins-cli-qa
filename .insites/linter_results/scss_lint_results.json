@@ -1,0 +1,16 @@
+{
+    "scss_lint_results": {
+        "declaration-block-no-redundant-longhand-properties": [
+            {
+                "undefined": [
+                    {
+                        "line 6 to 9": {
+                            "issue": "Expected shorthand property \"margin\" (declaration-block-no-redundant-longhand-properties)",
+                            "type": "error"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
